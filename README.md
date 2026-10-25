@@ -3,7 +3,7 @@
 
 <p align="center"> 
   
-  <img src="./WC.svg" width="900"> 
+  <img src="./wc.svg" width="900"> 
 </p>
 <p align="center">
   <img src="./Ivan.jpeg" width="900"> 
