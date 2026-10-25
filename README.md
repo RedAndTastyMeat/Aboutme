@@ -63,8 +63,8 @@
   <img src="./yo.svg" width="1200"> 
 </p>
 <p align="center">
-  <a href="https://ivandeath.atabook.org/">
-    <img src="https://img.shields.io/badge/☸_ATABOOK-0A0A0A?style=for-the-badge&labelColor="000000" width="250"> 
+  <a href="https://redmeat.atabook.org/">
+    <img src="https://img.shields.io/badge/☸_ATABOOK-400101?style=for-the-badge&labelColor="400101" width="250"> 
   </a>
 </p>
 <br>
@@ -77,8 +77,8 @@
   <img src="./tải_xuống__16_-removebg-preview.png" width="300">
 
 <p align="center">
-  <a href="https://open.spotify.com/track/7dUrhEQguPAglRgnACCzYw?si=f60e8899b1fc4072">
-    <img src="https://img.shields.io/badge/♫_Ponyboy-0A0A0A?style=for-the-badge&logo=spotify&logoColor=white" width="200">
+  <a href="https:/https://open.spotify.com/album/3uW306euM0l6tAJpae90LS?si=utiIZEX4T2eqDh_2wpdJGg">
+    <img src="https://img.shields.io/badge/♫_𝗶𝗺 𝘀𝗼 𝗰𝗿𝗮𝘇𝘆 𝗳𝗼𝗿 𝘆𝗼𝘂𝘂𝘂</𝟯-400101?style=for-the-badge&logo=spotify&logoColor=white" width="600">
   </a>
 </p>
 <p align="center">
@@ -86,12 +86,11 @@
   
   <p align="center">
   <sub>━━━━━━━━━━●━━━━━━━━━━</sub><br>
-  <sub>♫ponyboy</sub>
+  <sub>♫𝖎𝖒 𝖘𝖔 𝖈𝖗𝖆𝖟𝖞 𝖋𝖔𝖗 𝖞𝖔𝖚𝖚𝖚</3</sub>
 </p>
   
   <p align="center">
  <img src="./- Find & Share on GIPHY (1).gif" width="500">
 <p align="center">
-</sub>† 𝖘𝖊𝖊 𝖞𝖔𝖚 𝖓𝖊𝖝𝖙 𝖑𝖎𝖋𝖊
- †</sub>
+</sub>†𝕹𝖊𝖝𝖙 𝖙𝖎𝖒𝖊 𝖜𝖊 𝖒𝖊𝖊𝖙 𝖙𝖍𝖊𝖗𝖊 𝖜𝖎𝖑𝖑 𝖇𝖊 𝖒𝖔𝖗𝖊 𝖇𝖑𝖔𝖔𝖉 𝖆𝖓𝖉 𝖋𝖑𝖊𝖘𝖍†</sub>
 </p>
