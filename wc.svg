@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
+
+  <defs>
+  <linearGradient id="blood" x1="0%" y1="0%" x2="100%" y2="0%">  
+    <stop offset="0%">
+      <animate 
+        attributeName="stop-color" 
+        values="#5A5A55;#A7A7A5;#E0E0DE;#FCFEFD;#3C3C3A;#5A5A55" 
+        dur="5s" 
+        repeatCount="indefinite"/>
+    </stop>
+    <stop offset="25%"> 
+      <animate 
+        attributeName="stop-color" 
+        values="#A7A7A5;#E0E0DE;#FCFEFD;#3C3C3A;#5A5A55;#A7A7A5" 
+        dur="5s" 
+        repeatCount="indefinite"/>
+    </stop>
+    <stop offset="50%"> 
+      <animate
+        attributeName="stop-color" 
+        values="#E0E0DE;#FCFEFD;#3C3C3A;#5A5A55;#A7A7A5;#E0E0DE"
+        dur="5s" 
+        repeatCount="indefinite"/> 
+    </stop>
+    <stop offset="75%"> 
+      <animate
+        attributeName="stop-color" 
+        values="#FCFEFD;#3C3C3A;#5A5A55;#A7A7A5;#E0E0DE;#FCFEFD"
+        dur="5s" 
+        repeatCount="indefinite"/> 
+    </stop>
+      <stop offset="100%"> 
+      <animate
+        attributeName="stop-color" 
+        values="#3C3C3A;#5A5A55;#A7A7A5;#E0E0DE;#FCFEFD;#3C3C3A"
+        dur="5s" 
+        repeatCount="indefinite"/> 
+    </stop>
+      
+    </linearGradient> 
+      
+    <!-- Glow --> 
+    <filter id="glow"> 
+      <feGaussianBlur
+        stdDeviation="3" 
+        result="blur"/>
+<feMerge> 
+  <feMergeNode in="blur"/>
+  <feMergeNode in="SourceGraphic"/> 
+</feMerge> 
+    </filter>
+  </defs>
+ 
+  <!-- Text -->
+  <text x="450"
+    y="95" 
+    text-anchor="middle" 
+    font-family="Arial, sans-serif"
+    font-size="52" 
+    font-weight="bold" 
+    fill="url(#blood)"
+    filter="url(#glow)">
+    ✧༺𖤐 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖙𝖍𝖊 𝖒𝖞 𝖉𝖆𝖗𝖐𝖘𝖎𝖉𝖊!! 𖤐༻✧
+  <animate attributeName="x" 
+    from="1200" 
+    to="-100" 
+    dur="3s"
+    repeatCount="indefinite"/>
+  </text>
+  
+</svg>
