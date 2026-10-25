@@ -22,7 +22,7 @@
   <img src="./tải xuống (21).png" width="700">
   
   <p align="center">    
-  <img src="./AboutMe.svg" width="1200">
+  <img src="./AboutME.svg" width="1200">
 </p>
 
 <p align="center">
